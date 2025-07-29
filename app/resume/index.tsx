@@ -30,9 +30,9 @@ const ResumePage = () => {
     >
       <div className="container mx-auto mt-24">
         <Tabs
-          defaultValue="experience"
+          defaultValue="education"
           className="flex flex-col md:flex-row gap-[60px]"
-        >
+        >``
           <motion.div
             initial={{ opacity: 0, x: -50 }}
             animate={controls}
