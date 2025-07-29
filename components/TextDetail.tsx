@@ -11,7 +11,6 @@ const TextDetail = () => {
       }}
     >
       <span className="text-xl">Web Developer</span>
-      <div className="text-justify flex flex-col items-justify">
       <p className="max-w-[500px] mb-9 text-white/80">
         I am an Informatics Engineering student passionate about web
         development, with a strong focus on frontend. While I also explore 
@@ -19,7 +18,6 @@ const TextDetail = () => {
         user interfaces and continuously seek to grow through real-world
         projects.{" "}
       </p>
-      </div>
     </motion.section>
   );
 };
