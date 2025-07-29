@@ -1,7 +1,7 @@
 "use client";
+
 import { motion } from "framer-motion";
 import {  TabsContent } from "@/components/ui/tabs";
-;
 import { ScrollArea } from "@/components/ui/scroll-area";
 
 const education = {

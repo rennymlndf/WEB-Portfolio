@@ -32,7 +32,7 @@ const ResumePage = () => {
         <Tabs
           defaultValue="education"
           className="flex flex-col md:flex-row gap-[60px]"
-        >``
+        >
           <motion.div
             initial={{ opacity: 0, x: -50 }}
             animate={controls}
