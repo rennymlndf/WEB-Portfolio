@@ -4,8 +4,8 @@ import React from "react";
 import { FaGithub, FaLinkedinIn, FaTelegram, FaInstagram, FaFacebook} from "react-icons/fa"
 const social = [
   {icon : <FaGithub/>, path: "https://github.com/rennymlndf"},
-  {icon : <FaLinkedinIn/>, path: "https://www.linkedin.com/in/ahmd-riyo/"},
-  {icon : <FaFacebook/>, path: "https://web.facebook.com/profile.php?id=100027316463821"},
+  {icon : <FaLinkedinIn/>, path: "https://www.linkedin.com/in/renny-melanda-febriyanti/"},
+  {icon : <FaFacebook/>, path: "https://web.facebook.com/renny.m.febriyanti.9"},
   {icon : <FaInstagram/>, path: "https://www.instagram.com/rennymlndf/?hl=id"},
 ]
 
