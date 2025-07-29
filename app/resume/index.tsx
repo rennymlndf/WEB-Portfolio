@@ -46,7 +46,7 @@ const ResumePage = () => {
             <TabsList className="flex flex-col w-full sm:w-[300px] mx-auto  gap-5">
               <TabsTrigger value="education">Education</TabsTrigger>
               <TabsTrigger value="skills">Skills</TabsTrigger>
-              <TabsTrigger value="about">About me</TabsTrigger>
+              <TabsTrigger value="about">About Me</TabsTrigger>
             </TabsList>
           </motion.div>
           <motion.div
