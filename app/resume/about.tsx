@@ -4,8 +4,7 @@ import { TabsContent } from "@/components/ui/tabs";
 const about = {
   title: "About Me",
   description:
-  <p className="max-w-[700px] text-justify break-words mb-9 text-white/80">  
-  "My journey in web development began in 2023. Since then, I’ve been consistently honing my skills and expanding my understanding of modern web technologies. Over time, I’ve grown from building simple interfaces to developing more structured, responsive, and dynamic web applications. I’m deeply passionate about technology and see coding not just as a skill, but as a craft that I continuously refine. This passion drives me to keep learning, improving, and striving to become a reliable and impactful web developer.",
+    "My journey in web development began in 2023. Since then, I’ve been consistently honing my skills and expanding my understanding of modern web technologies. Over time, I’ve grown from building simple interfaces to developing more structured, responsive, and dynamic web applications. I’m deeply passionate about technology and see coding not just as a skill, but as a craft that I continuously refine. This passion drives me to keep learning, improving, and striving to become a reliable and impactful web developer.",
   info: [
     {
       fieldNama: "Name",
